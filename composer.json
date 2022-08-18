@@ -1,0 +1,23 @@
+{
+    "name": "mikkelricky/retstavning",
+    "description": "Retstavning",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "MikkelRicky\\Retstavning\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Mikkel Ricky",
+            "email": "mikkel@mikkelricky.dk"
+        }
+    ],
+    "require": {
+        "php": "^8.0",
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
